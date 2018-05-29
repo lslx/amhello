@@ -8,4 +8,5 @@ cd build
 ../configure
 make
 
-
+# more useage see:
+https://www.gnu.org/software/automake/manual/html_node/Use-Cases.html#Use-Cases
